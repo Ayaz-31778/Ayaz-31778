@@ -3,7 +3,7 @@
 🎓 Student, currently learning web development  
 💻 Building projects with HTML, CSS & JavaScript  
 🌱 Currently exploring: React / backend basics  
-📫 Reach me: ayaz@example.com
+📫 Reach me: ayazdadavali1@gmail.com
 
 ---
 
