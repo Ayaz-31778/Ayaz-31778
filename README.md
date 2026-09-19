@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Ayaz 👋
 
-<!--
-**Ayaz-31778/Ayaz-31778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student, currently learning web development  
+💻 Building projects with HTML, CSS & JavaScript  
+🌱 Currently exploring: React / backend basics  
+📫 Reach me: ayaz@example.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects:**
+- 🚚 [Truck-mithra](https://github.com/Ayaz-31778/Truck-mithra) — logistics/trucking management app
+- 🌾 [SAMAS](https://github.com/Ayaz-31778/Smart-Agriculture-Monitoring-Analytics-System-SAMAS-) — smart agriculture monitoring system
+- 🏫 [Geethanjali ERP](https://github.com/Ayaz-31778/Geethanjali-erp) — ERP system for institution management
