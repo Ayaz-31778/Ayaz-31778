@@ -50,7 +50,7 @@ A logistics platform concept connecting truck drivers and transporters through l
 ### 🌱 Smart Agriculture Monitoring & Analytics System (SAMAS)
 A Python-based agriculture monitoring project for collecting temperature, humidity, soil-moisture and rainfall data, performing analysis, storing records and visualizing trends.
 
-🔗 [View Project](https://github.com/Ayaz-31778/Smart-Agriculture-Monitoring-Analytics-System-SAMAS-)
+🔗 [View Project](https://github.com/Ayaz-31778/SAMAS)
 
 ### 🏥 Healthcare Appointment System
 A frontend SDC project built with HTML, CSS and JavaScript with separate User and Admin modules and Local Storage-based data management.
