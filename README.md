@@ -1,69 +1,61 @@
 # 👋 Hi, I'm Ayaz
 
-### B.Tech Computer Science & Engineering Student | Developer | Project Builder
+### B.Tech CSE Student • Developer • Project Builder
 
-Welcome to my GitHub profile! I'm **Shaik Ayaz Dadavali**, a Computer Science & Engineering student at **KL University** who enjoys turning ideas into practical software projects.
+I'm **Shaik Ayaz Dadavali**, a Computer Science & Engineering student at **KL University** who enjoys turning ideas into practical projects and learning by building.
 
-I'm currently building my skills across **web development, Python, Java, C, data structures, IoT, and application development**, while exploring how technology can be used to solve real-world problems.
+I work with **C, C++, Java, Python, JavaScript, web technologies, Git/GitHub, IoT, and AI/ML fundamentals**.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech — Computer Science & Engineering, KL University
-- 💻 Interested in software development and application building
-- 🌱 Currently strengthening my skills in web development, programming, DSA and IoT
-- 🧩 Enjoy working on academic, startup-oriented and real-world project ideas
+- 💻 Interested in software development and real-world applications
+- 🧠 Building strong foundations in DSA, OOP and problem solving
+- 🌐 Exploring web development and application design
+- 🤖 Exploring IoT and AI/ML applications
 - 🚚 Interested in logistics and transportation technology
-- 🌱 Interested in smart agriculture and IoT-based systems
-- 🏗️ Focused on learning by building projects
+- 🌱 Interested in smart agriculture and data-driven systems
+- 🏗️ I learn by building, testing, documenting and improving projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming
+**Languages**  
 C • C++ • Java • Python • JavaScript
 
-### Web Development
+**Web**  
 HTML5 • CSS3 • JavaScript • Responsive Design
 
-### Core Computer Science
-Data Structures • Algorithms • Object-Oriented Programming • Problem Solving
+**Core CS**  
+Data Structures • Algorithms • OOP • Problem Solving
 
-### Tools & Platforms
+**Tools**  
 Git • GitHub • VS Code • Arduino IDE • Figma
 
-### Areas I'm Exploring
-IoT • AI/ML • Web Applications • Automation • Data Analytics
+**Exploring**  
+IoT • AI/ML • Automation • Data Analytics • Web Applications
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🚚 Truck Mithra
-
-A logistics platform concept designed to connect truck drivers and transporters, with features around load discovery, matching, trip tracking, communication, and payment workflows.
+A logistics platform concept connecting truck drivers and transporters through load discovery, matching, trip tracking, communication and payment workflows.
 
 🔗 [View Project](https://github.com/Ayaz-31778/Truck-mithra)
 
 ### 🌱 Smart Agriculture Monitoring & Analytics System (SAMAS)
-
-A Python-based agriculture monitoring project that collects temperature, humidity, soil-moisture and rainfall data, performs condition analysis, stores records and visualizes trends.
+A Python-based agriculture monitoring project for collecting temperature, humidity, soil-moisture and rainfall data, performing analysis, storing records and visualizing trends.
 
 🔗 [View Project](https://github.com/Ayaz-31778/Smart-Agriculture-Monitoring-Analytics-System-SAMAS-)
 
 ### 🏥 Healthcare Appointment System
-
-A frontend SDC project built with HTML, CSS and JavaScript featuring separate User and Admin modules with Local Storage-based data management.
+A frontend SDC project built with HTML, CSS and JavaScript with separate User and Admin modules and Local Storage-based data management.
 
 🔗 [View Project](https://github.com/Ayaz-31778/Healthcare-Appointment-System)
-
-### 🏫 Geethanjali ERP
-
-An ERP-oriented project focused on managing institutional information and workflows.
-
-🔗 [View Project](https://github.com/Ayaz-31778/Geethanjali-erp)
 
 ---
 
@@ -72,66 +64,54 @@ An ERP-oriented project focused on managing institutional information and workfl
 - Advanced JavaScript
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Full-stack web development fundamentals
+- Full-stack development fundamentals
 - Python development
-- IoT and embedded systems
+- IoT & embedded systems
 - AI/ML fundamentals
-- Git and collaborative development
+- Software engineering practices
 
 ---
 
-## 🎯 2026 Learning Goals
+## 🎯 2026 Goals
 
-- Build stronger DSA fundamentals
-- Develop complete end-to-end applications
+- Build complete end-to-end applications
+- Strengthen DSA and problem-solving skills
 - Improve software engineering practices
-- Build and document meaningful projects
-- Strengthen Git/GitHub workflow
-- Explore AI/ML and IoT applications
+- Build meaningful and well-documented projects
+- Contribute to open-source and collaborative development
+- Explore AI/ML and IoT-based solutions
 - Build a strong technical portfolio
 
 ---
 
-## 📊 My Development Approach
+## 🔄 How I Build
 
-    Learn
-      ↓
-    Build
-      ↓
-    Test
-      ↓
-    Document
-      ↓
-    Improve
-      ↓
-    Share
+```text
+Learn
+  ↓
+Plan
+  ↓
+Build
+  ↓
+Test
+  ↓
+Document
+  ↓
+Improve
+  ↓
+Share
+```
 
-I believe the best way to learn technology is to **build, experiment, understand the fundamentals, and keep improving**.
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: [ayazdadavali1@gmail.com](mailto:ayazdadavali1@gmail.com)
-- 💻 GitHub: [Ayaz-31778](https://github.com/Ayaz-31778)
+> **Build projects. Learn from them. Improve every version.**
 
 ---
 
-## 📌 Repository Highlights
+## 🤝 Connect With Me
 
-This profile contains projects covering areas such as:
+📧 **Email:** [ayazdadavali1@gmail.com](mailto:ayazdadavali1@gmail.com)
 
-- Web development
-- Python programming
-- Data structures and algorithms
-- IoT and embedded systems
-- Smart agriculture
-- Logistics technology
-- Educational/ERP applications
-- Academic software projects
+💻 **GitHub:** [Ayaz-31778](https://github.com/Ayaz-31778)
 
 ---
 
-### 💡 "Build projects. Learn from them. Improve every version."
-
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
